@@ -1,3 +1,3 @@
-# ⌨️ Chincaaw
+# 🧑🏻‍💻 Chincaaw
 
 **`Web Developer`**
